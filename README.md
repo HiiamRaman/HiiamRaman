@@ -1,6 +1,6 @@
 # Hi, I'm Raman 👋
 
-### Software Engineer | Backend & Full-Stack Developer
+### Computer Engineer | Backend & Full-Stack Developer
 
 I build scalable web applications and backend systems using modern technologies.
 
