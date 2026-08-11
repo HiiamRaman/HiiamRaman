@@ -40,3 +40,20 @@ Currently focused on **Next.js, FastAPI, Python, and backend engineering**, whil
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## 🚀 Featured Projects
+
+### 🛒 NovaShop
+Production-oriented e-commerce application with a layered backend architecture.
+
+**Next.js • TypeScript • MongoDB • JWT • Zod**
+
+### 💬 Whispr
+Real-time communication platform with messaging, audio/video calls, and authentication.
+
+**Next.js • Node.js • MongoDB • WebRTC • Stream**
+
+### 🍔 Food Delivery Platform
+Full-stack food ordering platform with payments and real-time delivery tracking.
+
+**React • Node.js • Express • MongoDB • Stripe • Socket.IO**
