@@ -9,7 +9,7 @@ Currently pursuing my **MSc in AI and Computational Intelligence** while strengt
 ## 🎓 Education
 
 ### MSc in AI and Computational Intelligence
-[Softwarica College of IT and E-Commerce](https://softwarica.edu.np/)
+**[Softwarica College of IT and E-Commerce](https://softwarica.edu.np/)**
 Currently pursuing
 
 ### Bachelor's Degree
